@@ -1,0 +1,24 @@
+{
+  "name": "clean-code",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "author": "Sniazhana Matskevich",
+  "license": "ISC",
+  "engines": {
+    "node": ">=6.9.1",
+    "npm": ">=3.10.8"
+  },
+  "devDependencies": {
+    "chai": "^4.4.1",
+    "mocha": "^10.4.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [],
+  "description": ""
+}
