@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoogleCloudTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+223a55d9f4ea607a52907a7eeeca41cb48f2af9e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a27b9ed13e27a040ea7988a1d06a365e62d2c51")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoogleCloudTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoogleCloudTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
